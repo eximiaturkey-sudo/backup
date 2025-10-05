@@ -535,11 +535,6 @@ echo "\nCrontab: "; system("crontab -l");
 ?>
 ```
 
-## USAGE NOTES:
 
-1. **Legal Use Only** - Only test on systems you own
-2. **Permission Required** - Always get written authorization
-3. **Detection Risk** - Most techniques are detectable by WAF/IDS
-4. **Clean Up** - Always remove shells after testing
 
 Save this as `webshell_upload_guide.txt` for reference.
